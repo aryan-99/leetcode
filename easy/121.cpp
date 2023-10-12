@@ -1,6 +1,6 @@
 /*
 121. Best Time to Buy and Sell Stock
-10/9/2023
+10/10/2023
 Time: 18m 55s
 Note: Spent too much time on a simple typo that changed logic [min(prices[0], ...) instead of actual]
 */

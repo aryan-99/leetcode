@@ -1,6 +1,6 @@
 /*
 242. Valid Anagram
-10/8/2023
+10/11/2023
 Time: 4m 24s
 Note: Using an array would be much easier and efficient here
 */
